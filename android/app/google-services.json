@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "106046771783",
+    "firebase_url": "https://slutprojektflutter-31ec2-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "slutprojektflutter-31ec2",
+    "storage_bucket": "slutprojektflutter-31ec2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106046771783:android:b1c87b581cebe21f175762",
+        "android_client_info": {
+          "package_name": "com.example.slutprojekt_flutter1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjj21p_2A39bSnZznQySJtWgJVn_Ik_AE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
