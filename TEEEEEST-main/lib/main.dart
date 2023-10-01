@@ -105,7 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
         )
       );
     }
-
+  // go to register page
   void register() {
     Navigator.of(context).push(
       MaterialPageRoute(
@@ -114,7 +114,7 @@ class _MyHomePageState extends State<MyHomePage> {
     );
   }
 
-
+  // go to login page
   void login() {
     Navigator.of(context).push(
         MaterialPageRoute(

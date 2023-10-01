@@ -2,9 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:slutprojekt_flutter1/model/UserModel.dart';
 import 'Login.dart';
 import 'database/databaseConnection.dart';
-
-const String settingsRoute = '/settings';
-
 class Settings extends StatelessWidget {
   const Settings({super.key});
 
@@ -204,10 +201,6 @@ class _ProfileEditorState extends State<ProfileEditor> {
                     passwordController.text = "";
                     emailController.text = "";
                     zipCodeController.text = "";
-
-                    setState(() {
-                      changeUserDetails(usernameValue, "username", user.username);
-                    });
                   },
                   style: ElevatedButton.styleFrom(
                     primary: Colors.green, // Background color
@@ -277,22 +270,23 @@ class _ProfileEditorState extends State<ProfileEditor> {
         onChanged: (newValue) {
           setState(() {
             // force update the user object value to the input of the textField unless it's empty
-            if (usernameValue != "") {
-              user.username = usernameValue;
-            }
-            if (passwordValue != "") {
-              user.password = passwordValue;
-            }
-
-            if (emailValue != "") {
-              user.email = emailValue;
-            }
-
-            if (zipCodeValue != "") {
-              user.zipcode = zipCodeValue;
-            }
+            // if (usernameValue != "") {
+            //   user.username = usernameValue;
+            // }
+            // if (passwordValue != "") {
+            //   user.password = passwordValue;
+            // }
+            //
+            // if (emailValue != "") {
+            //   user.email = emailValue;
+            // }
+            //
+            // if (zipCodeValue != "") {
+            //   user.zipcode = zipCodeValue;
+            // }
           });
         },
+
         controller: controller,
         obscureText: isPasswordTextField ? showPassword : false,
         decoration: InputDecoration(

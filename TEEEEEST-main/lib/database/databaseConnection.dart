@@ -76,14 +76,16 @@ Future login(String username, String password) async {
 }
 
 Future changeUserDetails(String newValue , String key, String currentValue) async {
-  if (newValue.trim() != "" && newValue.trim() != currentValue) {
+  if (newValue.trim() != "") {
     try {
       final fireStore = FirebaseFirestore.instance;
       QuerySnapshot querySnapshot = await fireStore.collection('users').get();
 
       for (QueryDocumentSnapshot doc in querySnapshot.docs) {
         Map<String, dynamic> data = doc.data() as Map<String, dynamic>;
-
+        print("---------------");
+          print(data[key] + currentValue);
+        print("---------------");
         // Check if the 'username' field matches the old username;
         if (data[key] == currentValue) {
           // Update the 'username' field with the new username
