@@ -1,0 +1,12 @@
+io.flutter.plugins.deviceinfo.device_info-jetified-window-java-1.0.0-beta04-0 C:\Users\Sebastian\.gradle\caches\transforms-3\4e3d4d31e561039bcaa81984587914f9\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutter.plugins.deviceinfo.device_info-core-1.6.0-1 C:\Users\Sebastian\.gradle\caches\transforms-3\5d9f950b7722b2ed365ff44dc05a3c61\transformed\core-1.6.0\res
+io.flutter.plugins.deviceinfo.device_info-jetified-window-1.0.0-beta04-2 C:\Users\Sebastian\.gradle\caches\transforms-3\b71f2b7f498ba90bc862c875a0ff2f95\transformed\jetified-window-1.0.0-beta04\res
+io.flutter.plugins.deviceinfo.device_info-jetified-annotation-experimental-1.1.0-3 C:\Users\Sebastian\.gradle\caches\transforms-3\f4ce352462fe2fb97a4e0e8681e6d527\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutter.plugins.deviceinfo.device_info-main-4 C:\Users\Sebastian\AppData\Local\Pub\Cache\hosted\pub.dev\device_info-2.0.3\android\src\main\res
+io.flutter.plugins.deviceinfo.device_info-release-5 C:\Users\Sebastian\AppData\Local\Pub\Cache\hosted\pub.dev\device_info-2.0.3\android\src\release\res
+io.flutter.plugins.deviceinfo.device_info-pngs-6 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\device_info\generated\res\pngs\release
+io.flutter.plugins.deviceinfo.device_info-resValues-7 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\device_info\generated\res\resValues\release
+io.flutter.plugins.deviceinfo.device_info-rs-8 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\device_info\generated\res\rs\release
+io.flutter.plugins.deviceinfo.device_info-mergeReleaseResources-9 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\device_info\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutter.plugins.deviceinfo.device_info-mergeReleaseResources-10 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\device_info\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutter.plugins.deviceinfo.device_info-merged_res-11 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\device_info\intermediates\merged_res\release

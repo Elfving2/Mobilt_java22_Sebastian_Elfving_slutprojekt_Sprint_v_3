@@ -1,0 +1,12 @@
+io.flutterfastkit.fk_user_agent-jetified-window-java-1.0.0-beta04-0 C:\Users\Sebastian\.gradle\caches\transforms-3\4e3d4d31e561039bcaa81984587914f9\transformed\jetified-window-java-1.0.0-beta04\res
+io.flutterfastkit.fk_user_agent-core-1.6.0-1 C:\Users\Sebastian\.gradle\caches\transforms-3\5d9f950b7722b2ed365ff44dc05a3c61\transformed\core-1.6.0\res
+io.flutterfastkit.fk_user_agent-jetified-window-1.0.0-beta04-2 C:\Users\Sebastian\.gradle\caches\transforms-3\b71f2b7f498ba90bc862c875a0ff2f95\transformed\jetified-window-1.0.0-beta04\res
+io.flutterfastkit.fk_user_agent-jetified-annotation-experimental-1.1.0-3 C:\Users\Sebastian\.gradle\caches\transforms-3\f4ce352462fe2fb97a4e0e8681e6d527\transformed\jetified-annotation-experimental-1.1.0\res
+io.flutterfastkit.fk_user_agent-main-4 C:\Users\Sebastian\AppData\Local\Pub\Cache\hosted\pub.dev\fk_user_agent-2.1.0\android\src\main\res
+io.flutterfastkit.fk_user_agent-release-5 C:\Users\Sebastian\AppData\Local\Pub\Cache\hosted\pub.dev\fk_user_agent-2.1.0\android\src\release\res
+io.flutterfastkit.fk_user_agent-pngs-6 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\fk_user_agent\generated\res\pngs\release
+io.flutterfastkit.fk_user_agent-resValues-7 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\fk_user_agent\generated\res\resValues\release
+io.flutterfastkit.fk_user_agent-rs-8 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\fk_user_agent\generated\res\rs\release
+io.flutterfastkit.fk_user_agent-mergeReleaseResources-9 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\fk_user_agent\intermediates\incremental\release\mergeReleaseResources\merged.dir
+io.flutterfastkit.fk_user_agent-mergeReleaseResources-10 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\fk_user_agent\intermediates\incremental\release\mergeReleaseResources\stripped.dir
+io.flutterfastkit.fk_user_agent-merged_res-11 C:\Users\Sebastian\IdeaProjects\TEEEEEST-main\build\fk_user_agent\intermediates\merged_res\release

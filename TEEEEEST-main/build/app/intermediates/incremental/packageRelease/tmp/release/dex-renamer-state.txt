@@ -1,0 +1,4 @@
+#Sun Oct 01 22:30:22 CEST 2023
+base.0=C\:\\Users\\Sebastian\\IdeaProjects\\TEEEEEST-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "ai.conscent.flutter_conscent_plugin-merged_res-29:/xml/provider_paths.xml",
+        "source": "ai.conscent.flutter_conscent_plugin-packaged_res-30:/xml/provider_paths.xml"
+    },
+    {
+        "merged": "ai.conscent.flutter_conscent_plugin-merged_res-29:/xml/image_share_filepaths.xml",
+        "source": "ai.conscent.flutter_conscent_plugin-browser-1.5.0-12:/xml/image_share_filepaths.xml"
+    }
+]
